@@ -1,0 +1,142 @@
+Data for month  2 2007
+{u'WEB': 2, u'INTERNET': 1, u'SITES': 2, u'CARRIER': 2, u'ONLINE': 2, u'DATA': 1}
+Data for month  3 2007
+{u'WEB': 3, u'ADDRESS': 1, u'IP': 1, u'INTERNET': 1, u'SITES': 1, u'TERMINAL': 1, u'ONLINE': 4, u'DATA': 1, u'PAGES': 1}
+Data for month  4 2007
+{u'INTERNET': 1, u'DATA': 3, u'ONLINE': 4, u'ADDRESS': 3}
+Data for month  5 2007
+{u'WEB': 1, u'ADDRESS': 2, u'SITES': 1, u'DEVICES': 1, u'ONLINE': 6}
+Data for month  6 2007
+{u'INTERNET': 1, u'SITES': 3, u'DEVICES': 1, u'CARRIER': 1, u'ONLINE': 6, u'ADDRESS': 3}
+Data for month  7 2007
+{u'WEB': 1, u'PROVIDER': 1, u'TERMINAL': 1, u'CARRIER': 2, u'ONLINE': 2, u'ADDRESS': 2, u'INTERNET': 1, u'DATA': 3}
+Data for month  8 2007
+{u'WEB': 3, u'BROADBAND': 1, u'DATA': 3, u'ONLINE': 7, u'SITES': 1, u'TERMINAL': 2, u'CARRIER': 1, u'INTERNET': 1, u'3G': 2, u'PAGES': 1}
+Data for month  9 2007
+{u'WEB': 2, u'ADDRESS': 10, u'BROADBAND': 1, u'INTERNET': 2, u'ONLINE': 5, u'DATA': 1}
+Data for month  10 2007
+{u'BROADBAND': 1, u'ONLINE': 4, u'SITES': 3, u'TERMINAL': 2, u'CARRIER': 1, u'ADDRESS': 1, u'DATA': 4}
+Data for month  11 2007
+{u'WEB': 4, u'DOMAIN': 1, u'ADDRESS': 5, u'ONLINE': 3, u'DEVICES': 1, u'INTERNET': 3, u'DATA': 1}
+Data for month  12 2007
+{u'WEB': 4, u'DOMAIN': 1, u'INTERNET': 2, u'SITES': 3, u'CARRIER': 1, u'ONLINE': 6, u'ADDRESS': 4, u'DATA': 2, u'PROVIDER': 1}
+Data for month  1 2008
+{u'WEB': 3, u'ADDRESS': 4, u'INTERNET': 4, u'SITES': 4, u'BROADBAND': 1, u'ONLINE': 3, u'DATA': 4}
+Data for month  2 2008
+{u'DATA': 3, u'INTERNET': 2, u'SITES': 1, u'TERMINAL': 1, u'ONLINE': 12, u'ADDRESS': 2, u'3G': 1}
+Data for month  3 2008
+{u'DOMAIN': 1, u'ONLINE': 12, u'SITES': 1, u'INTERNET': 2, u'DATA': 3, u'PAGES': 1, u'PROVIDER': 1}
+Data for month  4 2008
+{u'WEB': 1, u'ONLINE': 3, u'SITES': 1, u'TERMINAL': 3, u'CARRIER': 2, u'PROVIDER': 2, u'INTERNET': 4, u'3G': 2}
+Data for month  5 2008
+{u'WEB': 1, u'ADDRESS': 1, u'BROADBAND': 2, u'3G': 8, u'INTERNET': 2, u'SITES': 5, u'DEVICES': 1, u'TERMINAL': 1, u'ONLINE': 9, u'DATA': 5}
+Data for month  6 2008
+{u'WEB': 6, u'ADDRESS': 2, u'BROADBAND': 1, u'IP': 1, u'INTERNET': 10, u'SITES': 2, u'DEVICES': 1, u'TERMINAL': 2, u'3G': 6, u'ONLINE': 7, u'PROVIDER': 1, u'DATA': 13}
+Data for month  7 2008
+{u'WEB': 1, u'DOMAIN': 1, u'BROADBAND': 1, u'DATA': 4, u'ADDRESS': 4, u'SITES': 1, u'DEVICES': 1, u'TERMINAL': 1, u'ONLINE': 13, u'INTERNET': 3, u'3G': 7, u'PROVIDER': 1}
+Data for month  8 2008
+{u'WEB': 4, u'IP': 3, u'BROADBAND': 1, u'3G': 9, u'ONLINE': 12, u'SITES': 4, u'TERMINAL': 1, u'ADDRESS': 6, u'INTERNET': 2, u'DATA': 4, u'PAGES': 1}
+Data for month  9 2008
+{u'DOMAIN': 1, u'ADDRESS': 4, u'BROADBAND': 2, u'3G': 28, u'ONLINE': 16, u'SITES': 2, u'TERMINAL': 1, u'CARRIER': 2, u'INTERNET': 3, u'DATA': 3}
+Data for month  10 2008
+{u'WEB': 4, u'DOMAIN': 2, u'3G': 9, u'ONLINE': 11, u'SITES': 8, u'DEVICES': 1, u'TERMINAL': 6, u'CARRIER': 2, u'MOBIL': 1, u'ADDRESS': 6, u'INTERNET': 4, u'DATA': 5, u'PROVIDER': 1}
+Data for month  11 2008
+{u'WEB': 6, u'ADDRESS': 3, u'3G': 5, u'INTERNET': 3, u'SITES': 9, u'DEVICES': 2, u'TERMINAL': 3, u'BROADBAND': 1, u'CARRIER': 1, u'ONLINE': 11, u'DATA': 6, u'PROVIDER': 1}
+Data for month  12 2008
+{u'WEB': 6, u'ADDRESS': 2, u'DATA': 1, u'ONLINE': 16, u'SITES': 4, u'DEVICES': 1, u'TERMINAL': 2, u'INTERNET': 5, u'3G': 1}
+Data for month  1 2009
+{u'WEB': 6, u'IP': 1, u'ADDRESS': 6, u'3G': 8, u'INTERNET': 6, u'SITES': 7, u'DEVICES': 2, u'TERMINAL': 3, u'ONLINE': 17, u'DATA': 7, u'PAGES': 1}
+Data for month  2 2009
+{u'WEB': 2, u'ADDRESS': 8, u'DATA': 9, u'INTERNET': 6, u'SITES': 12, u'DEVICES': 2, u'TERMINAL': 7, u'BROADBAND': 1, u'ONLINE': 27, u'3G': 3, u'PAGES': 1}
+Data for month  3 2009
+{u'WEB': 8, u'DOMAIN': 1, u'BROADBAND': 1, u'IP': 2, u'ADDRESS': 6, u'SITES': 6, u'DEVICES': 1, u'TERMINAL': 9, u'BANDWIDTH': 1, u'CARRIER': 3, u'ONLINE': 22, u'INTERNET': 6, u'3G': 4, u'PAGES': 1}
+Data for month  4 2009
+{u'WEB': 3, u'DOMAIN': 1, u'3G': 1, u'ONLINE': 24, u'SITES': 12, u'DEVICES': 1, u'TERMINAL': 5, u'CARRIER': 2, u'ADDRESS': 8, u'INTERNET': 4, u'DATA': 8}
+Data for month  5 2009
+{u'WEB': 3, u'DOMAIN': 1, u'ADDRESS': 14, u'IP': 1, u'ONLINE': 19, u'SITES': 12, u'DEVICES': 1, u'TERMINAL': 4, u'INTERNET': 3, u'DATA': 1, u'3G': 3}
+Data for month  6 2009
+{u'WEB': 2, u'DOMAIN': 2, u'ADDRESS': 9, u'IP': 3, u'INTERNET': 7, u'SITES': 7, u'DEVICES': 1, u'TERMINAL': 2, u'BROADBAND': 2, u'CARRIER': 4, u'ONLINE': 31, u'DATA': 5}
+Data for month  7 2009
+{u'WEB': 4, u'IP': 2, u'DATA': 12, u'ADDRESS': 4, u'SITES': 8, u'TERMINAL': 5, u'ONLINE': 38, u'INTERNET': 4, u'3G': 4}
+Data for month  8 2009
+{u'WEB': 2, u'DOMAIN': 1, u'ADDRESS': 4, u'IP': 1, u'ONLINE': 30, u'SITES': 17, u'DEVICES': 3, u'TERMINAL': 8, u'BROADBAND': 1, u'3G': 1, u'INTERNET': 8, u'DATA': 7, u'PROVIDER': 1}
+Data for month  9 2009
+{u'WEB': 4, u'BROADBAND': 1, u'IP': 3, u'INTERNET': 5, u'SITES': 12, u'TERMINAL': 3, u'CARRIER': 3, u'ONLINE': 24, u'ADDRESS': 9, u'DATA': 3, u'3G': 2, u'PAGES': 3}
+Data for month  10 2009
+{u'WEB': 9, u'IP': 1, u'DATA': 6, u'ADDRESS': 6, u'SITES': 12, u'DEVICES': 1, u'TERMINAL': 3, u'CARRIER': 3, u'DOMAIN': 3, u'ONLINE': 37, u'INTERNET': 1, u'3G': 5}
+Data for month  11 2009
+{u'WEB': 1, u'DOMAIN': 1, u'BROADBAND': 1, u'3G': 4, u'ADDRESS': 2, u'SITES': 7, u'DEVICES': 3, u'TERMINAL': 2, u'ONLINE': 20, u'PROVIDER': 1, u'INTERNET': 3, u'DATA': 6}
+Data for month  12 2009
+{u'WEB': 6, u'DATA': 3, u'ONLINE': 41, u'SITES': 5, u'DEVICES': 3, u'TERMINAL': 1, u'CARRIER': 2, u'ADDRESS': 4, u'INTERNET': 3, u'3G': 2, u'PAGES': 1}
+Data for month  1 2010
+{u'WEB': 4, u'DOMAIN': 1, u'IP': 1, u'DATA': 4, u'ADDRESS': 7, u'SITES': 3, u'DEVICES': 1, u'TERMINAL': 7, u'CARRIER': 1, u'ONLINE': 26, u'INTERNET': 6, u'3G': 3}
+Data for month  2 2010
+{u'WEB': 3, u'ONLINE': 13, u'SITES': 3, u'CARRIER': 1, u'ADDRESS': 2, u'INTERNET': 7, u'DATA': 3}
+Data for month  3 2010
+{u'IP': 1, u'PROVIDER': 1, u'SITES': 3, u'TERMINAL': 1, u'3G': 2, u'ONLINE': 19, u'ADDRESS': 8, u'INTERNET': 6, u'DATA': 3}
+Data for month  4 2010
+{u'WEB': 1, u'3G': 4, u'ONLINE': 13, u'SITES': 5, u'DEVICES': 1, u'ADDRESS': 4, u'INTERNET': 2, u'DATA': 4}
+Data for month  5 2010
+{u'WEB': 5, u'IP': 2, u'ONLINE': 13, u'SITES': 7, u'TERMINAL': 3, u'CARRIER': 1, u'ADDRESS': 3, u'DATA': 4, u'INTERNET': 1, u'3G': 6}
+Data for month  6 2010
+{u'WEB': 2, u'DOMAIN': 1, u'DATA': 10, u'ONLINE': 14, u'SITES': 1, u'DEVICES': 3, u'TERMINAL': 3, u'CARRIER': 2, u'ADDRESS': 5, u'INTERNET': 1, u'3G': 8, u'PAGES': 1}
+Data for month  7 2010
+{u'WEB': 3, u'BROADBAND': 2, u'3G': 7, u'ONLINE': 16, u'SITES': 6, u'TERMINAL': 2, u'ADDRESS': 5, u'INTERNET': 4, u'DATA': 9, u'PROVIDER': 1}
+Data for month  8 2010
+{u'WEB': 4, u'IP': 2, u'BROADBAND': 1, u'3G': 7, u'ADDRESS': 9, u'SITES': 12, u'DEVICES': 3, u'TERMINAL': 11, u'CARRIER': 2, u'DOMAIN': 1, u'ONLINE': 19, u'INTERNET': 5, u'DATA': 8}
+Data for month  9 2010
+{u'WEB': 5, u'DOMAIN': 2, u'IP': 3, u'ADDRESS': 12, u'SITES': 13, u'DEVICES': 2, u'TERMINAL': 5, u'3G': 7, u'CARRIER': 3, u'MOBIL': 1, u'ONLINE': 25, u'INTERNET': 5, u'DATA': 15, u'PAGES': 1, u'PROVIDER': 3}
+Data for month  10 2010
+{u'WEB': 3, u'DOMAIN': 1, u'BROADBAND': 1, u'3G': 4, u'ADDRESS': 5, u'SITES': 11, u'DEVICES': 1, u'TERMINAL': 3, u'ONLINE': 26, u'INTERNET': 9, u'DATA': 12, u'PAGES': 2}
+Data for month  11 2010
+{u'WEB': 6, u'DOMAIN': 1, u'BROADBAND': 2, u'IP': 1, u'ONLINE': 32, u'SITES': 10, u'DEVICES': 1, u'TERMINAL': 2, u'3G': 7, u'ADDRESS': 9, u'INTERNET': 5, u'DATA': 6, u'PROVIDER': 3}
+Data for month  12 2010
+{u'WEB': 6, u'IP': 1, u'3G': 7, u'ADDRESS': 8, u'SITES': 9, u'DEVICES': 2, u'TERMINAL': 2, u'ONLINE': 24, u'INTERNET': 4, u'DATA': 9, u'PAGES': 1}
+Data for month  1 2011
+{u'WEB': 4, u'DOMAIN': 1, u'ADDRESS': 3, u'IP': 2, u'INTERNET': 6, u'SITES': 18, u'DEVICES': 1, u'TERMINAL': 4, u'3G': 9, u'ONLINE': 27, u'DATA': 17}
+Data for month  2 2011
+{u'WEB': 3, u'DOMAIN': 1, u'ONLINE': 8, u'TERMINAL': 1, u'INTERNET': 1, u'DATA': 3}
+Data for month  3 2011
+{u'WEB': 6, u'BROADBAND': 1, u'3G': 3, u'INTERNET': 6, u'SITES': 6, u'TERMINAL': 2, u'CARRIER': 1, u'ONLINE': 23, u'ADDRESS': 10, u'DATA': 5, u'PROVIDER': 1}
+Data for month  4 2011
+{u'WEB': 3, u'BROADBAND': 2, u'DATA': 7, u'ONLINE': 20, u'SITES': 2, u'DEVICES': 2, u'TERMINAL': 1, u'CARRIER': 1, u'ADDRESS': 3, u'INTERNET': 4, u'3G': 4, u'PROVIDER': 2}
+Data for month  5 2011
+{u'WEB': 4, u'BROADBAND': 1, u'ONLINE': 19, u'SITES': 5, u'TERMINAL': 1, u'ADDRESS': 4, u'INTERNET': 9, u'DATA': 3}
+Data for month  6 2011
+{u'DOMAIN': 1, u'BROADBAND': 2, u'INTERNET': 3, u'SITES': 2, u'DEVICES': 1, u'ONLINE': 18, u'ADDRESS': 5, u'DATA': 4}
+Data for month  7 2011
+{u'WEB': 5, u'ADDRESS': 2, u'3G': 3, u'ONLINE': 24, u'SITES': 4, u'DEVICES': 3, u'TERMINAL': 2, u'CARRIER': 1, u'INTERNET': 4, u'DATA': 9}
+Data for month  8 2011
+{u'WEB': 1, u'BROADBAND': 1, u'3G': 1, u'INTERNET': 6, u'SITES': 4, u'TERMINAL': 1, u'ONLINE': 12, u'ADDRESS': 3, u'DATA': 3}
+Data for month  9 2011
+{u'WEB': 4, u'ADDRESS': 2, u'DATA': 3, u'INTERNET': 3, u'SITES': 3, u'TERMINAL': 5, u'BROADBAND': 1, u'CARRIER': 1, u'ONLINE': 27, u'3G': 2, u'PROVIDER': 1}
+Data for month  10 2011
+{u'WEB': 5, u'ADDRESS': 1, u'BROADBAND': 1, u'3G': 3, u'ONLINE': 12, u'SITES': 4, u'INTERNET': 6, u'DATA': 6}
+Data for month  11 2011
+{u'WEB': 1, u'BROADBAND': 1, u'ADDRESS': 4, u'SITES': 2, u'DEVICES': 1, u'ONLINE': 12, u'INTERNET': 2, u'DATA': 4}
+Data for month  12 2011
+{u'DOMAIN': 2, u'ADDRESS': 4, u'3G': 1, u'ONLINE': 10, u'SITES': 7, u'PROVIDER': 1, u'INTERNET': 3, u'DATA': 2}
+Data for month  1 2012
+{u'WEB': 2, u'DOMAIN': 1, u'ONLINE': 12, u'SITES': 6, u'INTERNET': 3, u'DATA': 3}
+Data for month  2 2012
+{u'WEB': 8, u'ADDRESS': 6, u'DATA': 10, u'ONLINE': 26, u'SITES': 3, u'DEVICES': 1, u'TERMINAL': 7, u'PROVIDER': 2, u'INTERNET': 1, u'3G': 3, u'PAGES': 2}
+Data for month  3 2012
+{u'WEB': 3, u'ADDRESS': 9, u'ONLINE': 36, u'SITES': 3, u'DEVICES': 3, u'TERMINAL': 4, u'BROADBAND': 1, u'INTERNET': 7, u'DATA': 6}
+Data for month  4 2012
+{u'WEB': 8, u'BROADBAND': 1, u'DATA': 12, u'INTERNET': 6, u'SITES': 11, u'DEVICES': 1, u'TERMINAL': 5, u'ONLINE': 45, u'ADDRESS': 7, u'3G': 1, u'PAGES': 2}
+Data for month  5 2012
+{u'WEB': 3, u'DOMAIN': 1, u'ADDRESS': 8, u'3G': 1, u'ONLINE': 39, u'SITES': 7, u'DEVICES': 1, u'TERMINAL': 5, u'CARRIER': 2, u'INTERNET': 6, u'DATA': 6, u'PROVIDER': 1}
+Data for month  6 2012
+{u'WEB': 9, u'DOMAIN': 1, u'ADDRESS': 6, u'DATA': 8, u'ONLINE': 62, u'SITES': 16, u'DEVICES': 6, u'TERMINAL': 8, u'BROADBAND': 1, u'CARRIER': 1, u'INTERNET': 8, u'3G': 1}
+Data for month  7 2012
+{u'WEB': 14, u'DOMAIN': 1, u'ADDRESS': 6, u'IP': 3, u'INTERNET': 4, u'SITES': 13, u'DEVICES': 1, u'TERMINAL': 7, u'BROADBAND': 2, u'3G': 2, u'ONLINE': 49, u'DATA': 13, u'PAGES': 3}
+Data for month  8 2012
+{u'WEB': 1, u'ADDRESS': 7, u'DATA': 18, u'ONLINE': 32, u'SITES': 13, u'DEVICES': 2, u'TERMINAL': 8, u'BROADBAND': 1, u'CARRIER': 2, u'INTERNET': 7, u'3G': 1, u'PAGES': 1}
+Data for month  9 2012
+{u'WEB': 6, u'DOMAIN': 2, u'BROADBAND': 1, u'DATA': 11, u'INTERNET': 9, u'SITES': 20, u'DEVICES': 1, u'TERMINAL': 9, u'ONLINE': 35, u'ADDRESS': 14, u'3G': 1, u'PAGES': 4}
+Data for month  10 2012
+{u'WEB': 2, u'3G': 2, u'INTERNET': 7, u'SITES': 12, u'DEVICES': 3, u'TERMINAL': 10, u'CARRIER': 2, u'ONLINE': 37, u'ADDRESS': 7, u'DATA': 7, u'PAGES': 1}
+Data for month  11 2012
+{u'WEB': 4, u'ADDRESS': 7, u'IP': 2, u'INTERNET': 8, u'SITES': 12, u'DEVICES': 9, u'TERMINAL': 6, u'BROADBAND': 1, u'ONLINE': 41, u'DATA': 14, u'PAGES': 1, u'PROVIDER': 1}
+Data for month  12 2012
+{u'WEB': 7, u'BROADBAND': 1, u'ONLINE': 39, u'SITES': 8, u'DEVICES': 5, u'TERMINAL': 7, u'CARRIER': 3, u'ADDRESS': 11, u'INTERNET': 12, u'DATA': 11}

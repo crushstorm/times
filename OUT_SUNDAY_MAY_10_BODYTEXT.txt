@@ -1,0 +1,142 @@
+Frequency for month  2   2007
+{}
+Frequency for month  3   2007
+{}
+Frequency for month  4   2007
+{u'4G': 2}
+Frequency for month  5   2007
+{}
+Frequency for month  6   2007
+{}
+Frequency for month  7   2007
+{}
+Frequency for month  8   2007
+{}
+Frequency for month  9   2007
+{u'4G': 3}
+Frequency for month  10   2007
+{}
+Frequency for month  11   2007
+{}
+Frequency for month  12   2007
+{}
+Frequency for month  1   2008
+{}
+Frequency for month  2   2008
+{}
+Frequency for month  3   2008
+{}
+Frequency for month  4   2008
+{}
+Frequency for month  5   2008
+{}
+Frequency for month  6   2008
+{}
+Frequency for month  7   2008
+{}
+Frequency for month  8   2008
+{}
+Frequency for month  9   2008
+{u'4G': 1}
+Frequency for month  10   2008
+{}
+Frequency for month  11   2008
+{}
+Frequency for month  12   2008
+{u'4G': 2}
+Frequency for month  1   2009
+{u'4G': 1}
+Frequency for month  2   2009
+{}
+Frequency for month  3   2009
+{}
+Frequency for month  4   2009
+{}
+Frequency for month  5   2009
+{u'4G': 1}
+Frequency for month  6   2009
+{}
+Frequency for month  7   2009
+{}
+Frequency for month  8   2009
+{u'4G': 2}
+Frequency for month  9   2009
+{}
+Frequency for month  10   2009
+{}
+Frequency for month  11   2009
+{}
+Frequency for month  12   2009
+{}
+Frequency for month  1   2010
+{}
+Frequency for month  2   2010
+{}
+Frequency for month  3   2010
+{}
+Frequency for month  4   2010
+{u'4G': 1}
+Frequency for month  5   2010
+{u'4G': 3}
+Frequency for month  6   2010
+{}
+Frequency for month  7   2010
+{u'4G': 10}
+Frequency for month  8   2010
+{u'4G': 3}
+Frequency for month  9   2010
+{u'4G': 4}
+Frequency for month  10   2010
+{u'4G': 2}
+Frequency for month  11   2010
+{u'4G': 2}
+Frequency for month  12   2010
+{u'4G': 9}
+Frequency for month  1   2011
+{u'4G': 2}
+Frequency for month  2   2011
+{u'4G': 6}
+Frequency for month  3   2011
+{u'4G': 13}
+Frequency for month  4   2011
+{u'4G': 13}
+Frequency for month  5   2011
+{u'4G': 7}
+Frequency for month  6   2011
+{u'4G': 2}
+Frequency for month  7   2011
+{u'4G': 4}
+Frequency for month  8   2011
+{}
+Frequency for month  9   2011
+{u'4G': 2}
+Frequency for month  10   2011
+{u'4G': 1}
+Frequency for month  11   2011
+{u'4G': 1}
+Frequency for month  12   2011
+{u'4G': 1}
+Frequency for month  1   2012
+{u'4G': 1}
+Frequency for month  2   2012
+{u'4G': 9}
+Frequency for month  3   2012
+{u'4G': 2}
+Frequency for month  4   2012
+{u'4G': 12}
+Frequency for month  5   2012
+{u'4G': 17}
+Frequency for month  6   2012
+{u'4G': 11}
+Frequency for month  7   2012
+{u'4G': 5}
+Frequency for month  8   2012
+{u'4G': 2}
+Frequency for month  9   2012
+{u'4G': 2}
+Frequency for month  10   2012
+{u'4G': 17}
+Frequency for month  11   2012
+{u'4G': 14}
+Frequency for month  12   2012
+{u'4G': 1}
